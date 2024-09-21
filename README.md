@@ -19,3 +19,46 @@ Sophia is a simple web-based chatbot that provides greetings and responses using
 ```bash
 git clone https://github.com/Ayoona22/Sophia_Chatbot.git
 cd Sophia_Chatbot
+```
+
+### 2. Install Dependencies
+Make sure you have Python installed. Install the required packages by running:
+```bash
+pip install -r req.txt
+```
+
+### 3. Run the Application
+After installing the dependencies, you can run the Flask app by executing:
+```bash
+python app.py
+```
+
+### 4. Open in Browser
+Once the app is running, open your browser and go to:
+```bash
+http://127.0.0.1:5000
+```
+
+### 5. Chat with Sophia!
+You can now chat with Sophia through the web interface. Type your message in the input box, and the bot will reply with simple responses.
+
+## File Structure
+```bash
+.
+├── app.py              # Backend Python script
+├── templates
+│   └── chat.html       # Frontend HTML file for chat interface
+├── static
+│   └── style.css       # Optional: Add styles for the chatbot UI
+└── req.txt    # Python dependencies
+```
+
+## Future Improvements
+- Improve the bot's intelligence to handle more complex conversations.
+- Add more features like storing chat history.
+- Allow users to switch between different conversation models.
+
+#### Author - Ayoona Maria John
+
+
+
