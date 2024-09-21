@@ -59,7 +59,7 @@ You can now chat with Sophia through the web interface. Type your message in the
 - Allow users to switch between different conversation models.
 
 ## Video Testing 
-https://github.com/Ayoona22/Sophia_Chatbot/issues/1#issue-2540028751
+https://github.com/user-attachments/assets/3b6553dc-e269-40f6-b891-189f838d5131
 
 #### Author - Ayoona Maria John
 
