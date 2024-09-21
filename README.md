@@ -17,5 +17,5 @@ Sophia is a simple web-based chatbot that provides greetings and responses using
 
 ### 1. Clone the Repository
 ```bash
-[git clone https://github.com/yourusername/sophia-chatbot.git](https://github.com/Ayoona22/Sophia_Chatbot.git)
-cd sophia-chatbot
+git clone https://github.com/Ayoona22/Sophia_Chatbot.git
+cd Sophia_Chatbot
